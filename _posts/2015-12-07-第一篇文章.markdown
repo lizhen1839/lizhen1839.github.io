@@ -7,7 +7,6 @@ layout: post
 
 ```java
 public class hello {
-    
-}
 
+}
 ```
