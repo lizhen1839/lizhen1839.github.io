@@ -3,16 +3,12 @@ title: 第一篇文章
 layout: post
 ---
 
-# test
+# 第一篇文章
 
-    this is content
+    这是搭建 github pages后的第一篇文章， 就把搭建过程记录以下作为开始吧
 
-```java
+# 搭建过程
 
-public class hello {
+## 创建git仓库
 
-}
-
-```
-
-> this is a refrence
+    首先创建一个特殊命名的仓库, 命名为
