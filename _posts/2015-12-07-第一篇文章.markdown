@@ -7,18 +7,25 @@ layout: post
 
 # 搭建过程
 
+
 ## 创建git仓库
+***
 
     首先创建一个特殊名字的repository, 命名为username.github.io, 其中username替换为你的
     用户把仓库clone到本地，添加一个index.html提交， 然后通过访问username.github.io, 就
     可以看到你的index.html页面了
 
-## 使用jekyll
+> 参见 <https://pages.github.com/>
 
-    jekyll是一个简单的免费的Blog生成工具, 上一步我们已经创建了一个仓库，github会把这个仓库
-    作为我们的blog，但是我们还是需要一个框架来发布博客
+## 安装jekyll
+***
+    jekyll是一个简单的Blog生成工具, 上一步我们已经创建了一个仓库，github会把这个仓库
+    作为我们的blog，但是我们还是需要一个框架来发布博客，可以使用markdown来编写博客，所以我
+    们需要安装jekyll
 
+1. > 使用jekyll需要安装ruby 2.0.0 以上版本, 可以使用 `ruby --version` 查看ruby版本
 
-```
-
-```
+2. > 安装bundler 方便之后安装 jekyll
+    ```
+        gem install bundler
+    ```
