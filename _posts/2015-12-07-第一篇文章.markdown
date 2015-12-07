@@ -23,9 +23,10 @@ layout: post
     作为我们的blog，但是我们还是需要一个框架来发布博客，可以使用markdown来编写博客，所以我
     们需要安装jekyll
 
-1. > 使用jekyll需要安装ruby 2.0.0 以上版本, 可以使用 `ruby --version` 查看ruby版本
+1. 使用jekyll需要安装ruby 2.0.0 以上版本, 可以使用 `ruby --version` 查看ruby版本
 
-2. > 安装bundler 方便之后安装 jekyll
+2. 安装bundler 方便之后安装 jekyll
+
     ```
         gem install bundler
     ```
