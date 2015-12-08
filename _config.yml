@@ -11,6 +11,4 @@ twitter_username: lizhen9985
 github_username:  lizhen1839
 
 # Build settings
-markdown: redcarpet
-redcarpet:
-    extensions: ["fenced_code_blocks", "autolink", "tables", "strikethrough"]
+markdown: kramdown
